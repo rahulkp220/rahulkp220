@@ -4,8 +4,8 @@
 **rahulkp220/rahulkp220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on microservices with `golang` and `python`.
-- 🌱 I’m currently learning more about the `blockchain` and `crypto` space. 
+- 🔭 Currently working on microservices with `golang` and `python`.
+- 🌱 I’m extremely excited about learning more about the whole `blockchain` and `crypto` space. 
 
 
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkp220&show_icons=true&theme=tokyonight&count_private=true&hide=contribs)](https://github.com/rahulkp220/github-readme-stats)
