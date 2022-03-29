@@ -4,7 +4,7 @@
 **rahulkp220/rahulkp220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- I mostly work with `node.js` and `python` language ecosystem.
+- I mostly work with `golang` and `python` language ecosystems.
 - Extremely excited about the whole `blockchain` and `web3` space. 
 
 
