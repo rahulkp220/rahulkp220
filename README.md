@@ -4,10 +4,10 @@
 **rahulkp220/rahulkp220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- I mostly work with `golang` and `python` language ecosystems.
-- Extremely excited about the whole `blockchain` and `web3` space. 
+👉 Software Developer with `10`+ years of industry experience.
 
+👉 Languages agnostic, however, loves to work with `Python`, `Golang` and very recently `Rust` language ecosystems.
 
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkp220&show_icons=true&theme=tokyonight&count_private=true&hide=contribs)](https://github.com/rahulkp220/github-readme-stats)
+👉 Skills `#python` `#django` `#drf` `#django-graphene` `#fastapi` `#flask` `#terraform` `#ansible` `#aws` `#azure` `#gcp` `#golang` `#rust` `#julia` `#gRPC` `#reactjs` `#javascript` `#html` `#tailwindcss` `#git` `#rest` `#graphql`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkp220&hide=dart,hcl,objective-c,java,dockerfile,swift,kotlin,html,shell)](https://github.com/rahulkp220/)
+👉 Rooting for `stacks` and `clarity` ecosystems when it comes to `web3`
