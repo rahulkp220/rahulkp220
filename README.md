@@ -8,6 +8,4 @@
 
 👉 Languages agnostic, however, loves to work with `Python`, `Golang` and very recently `Rust` language ecosystems.
 
-👉 Skills `#python` `#django` `#drf` `#django-graphene` `#fastapi` `#flask` `#terraform` `#ansible` `#aws` `#azure` `#gcp` `#golang` `#rust` `#julia` `#gRPC` `#reactjs` `#javascript` `#html` `#tailwindcss` `#git` `#rest` `#graphql`
-
-👉 Rooting for `stacks` and `clarity` ecosystems when it comes to `web3`
+👉 Skills `python` `django` `drf` `django-graphene` `fastapi` `flask` `terraform` `ansible` `AWS` `Azure` `GCP` `golang` `rust` `julia` `gRPC` `reactjs` `javascript` `tailwindcss` `git` `REST` `graphql`
